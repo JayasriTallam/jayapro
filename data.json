@@ -1,0 +1,24 @@
+{
+  "basics":{
+    "name":"mustiteja",
+    "email":"jayasritallam@gmail.com",
+    "mobile no":"79698798757"
+  },
+  "education":[
+    {
+      "degree":"B.Tech",
+      "institude":"PSCMR",
+      "data":["2014-18","79%"]
+    },
+    {
+      "degree":"Intermediate",
+      "institude":"Chaitanya",
+      "data":["2012-14","90%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institude":"L.P.C.T",
+      "data":["2011-12","78%"]
+    }
+  ]
+}
